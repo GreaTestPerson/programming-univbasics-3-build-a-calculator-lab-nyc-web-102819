@@ -19,5 +19,9 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
+<<<<<<< HEAD
   square_root = num2
+=======
+  square_root = num
+>>>>>>> ed923df923e51ef8fae6809fd21e637eea18c533
 end
